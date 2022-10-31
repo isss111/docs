@@ -35,6 +35,7 @@ The SCRF community is active across many social platforms. Follow for updates on
 * Twitter: [@SCRForum](https://twitter.com/SCRForum)
 * Youtube: [Smart Contract Research](https://www.youtube.com/channel/UCSA8Xu-rCemVuoBG2s449UQ)
 * LinkedIn: [Smart Contract Research Forum](https://www.linkedin.com/company/smart-contract-research-forum)
+* Newsletter: [Research Pulse](https://scrf.substack.com/)
 
 ## Podcast
 
@@ -46,4 +47,4 @@ SCRF Interviews is a dynamic podcast on all topics web3. Listen to interviews wi
 
 ## Learn More About SCRF
 
-SCRF is an interactive forum supported by an active international community. SCRF's members work together to advance actionable blockchain research. [Learn](https://github.com/smartcontractresearchforum/docs) more about SCRF and discover ways to [get involved](https://github.com/smartcontractresearchforum/docs/blob/main/en/content_connecting_with_scrf.md).
+The Smart Contract Research Forum (SCRF) is a grant-funded organization dedicated to advancing research while serving the web3 space. [Learn](https://github.com/smartcontractresearchforum/docs) more about SCRF and discover ways to [get involved](https://github.com/smartcontractresearchforum/docs/blob/main/en/content_connecting_with_scrf.md).
