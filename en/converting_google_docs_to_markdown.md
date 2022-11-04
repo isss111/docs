@@ -33,4 +33,4 @@ Follow the steps below to format SCRF's documentation:
 
 ## Learn More About SCRF
 
-The Smart Contract Research Forum (SCRF) is a grant-funded organization dedicated to advancing research while serving the web3 space. [Learn](https://github.com/smartcontractresearchforum/docs) more about SCRF, and discover ways to [get involved](https://github.com/smartcontractresearchforum/docs/blob/main/en/content_connecting_with_scrf.md).
+The Smart Contract Research Forum (SCRF) is a grants-funded organization dedicated to advancing research while serving the web3 space. [Learn](https://github.com/smartcontractresearchforum/docs) more about SCRF, and discover ways to [get involved](https://github.com/smartcontractresearchforum/docs/blob/main/en/content_connecting_with_scrf.md).
